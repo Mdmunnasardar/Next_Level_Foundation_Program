@@ -32,6 +32,8 @@ function getDayType(day) {
     }
 }
 
+
+
 //// Question No. 3 ..and you can see the code is same as question3.js and can test the function by calling it with different username values.
 function validateUsername(username) {
     if (username.length < 4) {

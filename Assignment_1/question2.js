@@ -19,6 +19,8 @@ function getDayType(day) {
     }
 }
 
+
+//testing the function by calling it with different day values.
 console.log(getDayType("Friday"));
 console.log(getDayType("Sunday"));
 console.log(getDayType("Monday"));
